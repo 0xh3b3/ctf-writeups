@@ -14,6 +14,7 @@
 > **NOTE, bruteforcing flag submissions is still not permitted**. I will put a "max attempts" limit on this challenge at 1:00 PM Pacific to stop participants from automating submissions. There is only one correct flag, you can find a needle in a haystack if you really know what you are looking for.
 > 
 > **Attachment:** [free_flags.txt](https://ctf.nahamcon.com/files/cba72d2c0e710d0a5d692e0f53d6c049/free_flags.txt?token=eyJ1c2VyX2lkIjo1ODksInRlYW1faWQiOjE3NywiZmlsZV9pZCI6NDJ9.aDWN5g.I4O0uwoZUTilBWBcBqP5gbNR-Bc)
+>
 > ***Author:** John Hammond*
 
 ---
