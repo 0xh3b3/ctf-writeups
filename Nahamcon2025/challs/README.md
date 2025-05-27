@@ -1,4 +1,4 @@
-# <h1 style="color:red">Free Flags!</h1>
+# $${\color{red}Free Flags!}$$
 
 
 - **Category:** Warmups
@@ -43,7 +43,7 @@ and the flag was identified :trollface:
 
 > Match found: `flag{ae6b6fb0686ec594652afe9eb6088167}`
 
-# <h1 style="color:red">The Martian</h1>
+# $${\color{red}The Martian}$$
 
 
 - **Category:** Miscellaneous 
