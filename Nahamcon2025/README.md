@@ -38,6 +38,6 @@ else:
     print("No match.")
 ```
 
-and the flag was identified 
+and the flag was identified :trollface:
 
 > Match found: `flag{ae6b6fb0686ec594652afe9eb6088167}`
