@@ -43,6 +43,8 @@ and the flag was identified :trollface:
 
 > Match found: `flag{ae6b6fb0686ec594652afe9eb6088167}`
 
+
+
 # $${\color{red}The Martian}$$
 
 
@@ -70,7 +72,7 @@ next I ran binwalk to extract hidden data
 
 Several files were extracted, I ran ```file *``` command to identify their file type, one file stood up in particular called `34` and `957D`, they were both images and they contained the flag 
 
-![alt](cat.png)
+![flag image](https://github.com/0xh3b3/ctf-writeups/blob/main/Nahamcon2025/challenges/Assets/34.png)
 
 I added the file type prefix, scaled the image using magick convert tool
 ```convert 957D.png -resize 200% flag.png```
@@ -79,3 +81,106 @@ and then extracted the text using tesseract
 ```tesseract 957D.png flag```
 
 > `flag{Odb031ac265b3e6538aff0d9f456004f}`
+
+
+
+# $${\color{red}Read The Rules}$$
+
+
+- **Category:** Miscellaneous 
+- **Points:** 50
+- **Solves:** 1369
+
+---
+
+## Challenge
+
+> Please follow the rules for this CTF!
+> 
+> ***Author:** John Hammond*
+
+---
+
+## Solution
+Basics 101 of CTFs always view page source 
+
+I went to the page rules page and went through all the rules but the flag was not there, I viewed the page source and boom, I got the flag !!
+
+> Read The Rules: ```flag{90bc54705794a62015369fd8e86e557b}```
+
+
+
+# $${\color{red}Read The Rules}$$
+
+
+- **Category:** Warmups
+- **Points:** 50
+- **Solves:** 1367
+
+---
+
+## Challenge
+
+> Please follow the rules for this CTF!
+> 
+> ***Author:** John Hammond*
+
+---
+
+## Solution
+Basics 101 of CTFs always view page source 
+
+I went to the page rules page and went through all the rules but the flag was not there, I viewed the page source and boom, I got the flag !!
+
+> Read The Rules: ```flag{90bc54705794a62015369fd8e86e557b}```
+
+
+
+# $${\color{red}Technical Support}$$
+
+
+- **Category:** Warmups 
+- **Points:** 50
+- **Solves:** 1069
+
+---
+
+## Challenge
+
+> Want to join the party of GIFs, memes and emoji shenanigans? Or just want to ask a question for technical support regarding any challenges in the CTF?
+> This CTF uses support tickets to help handle requests. If you need assistance, please create a ticket with the #ctf-open-ticket channel. You do not need to direct message any CTF organizers or facilitators, they will just tell you to open a ticket. You might find a flag in the ticket channel, though!
+
+> Connect here: [Join ](https://ctf.nahamcon.com/discord)
+> ***Author:** John Hammond*
+
+---
+
+## Solution
+
+> This challenge was all about submitting a ticket for challenges a participant is facing
+
+> The querry was flag and it returns the flag
+
+> The bot is currently down ...
+
+
+
+Thanks, xiexie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

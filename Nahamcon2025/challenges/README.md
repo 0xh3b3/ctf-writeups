@@ -1,4 +1,4 @@
-# NahamCon 2025 CTF - Free Flag!
+# $${\color{red}Free Flags!}$$
 
 
 - **Category:** Warmups
@@ -43,7 +43,7 @@ and the flag was identified :trollface:
 
 > Match found: `flag{ae6b6fb0686ec594652afe9eb6088167}`
 
-# NahamCon 2025 CTF - The Martian
+# $${\color{red}The Martian}$$
 
 
 - **Category:** Miscellaneous 
