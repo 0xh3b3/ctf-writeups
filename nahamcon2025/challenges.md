@@ -72,7 +72,7 @@ next I ran binwalk to extract hidden data
 
 Several files were extracted, I ran ```file *``` command to identify their file type, one file stood up in particular called `34` and `957D`, they were both images and they contained the flag 
 
-![flag image](https://github.com/0xh3b3/ctf-writeups/blob/main/Nahamcon2025/challenges/Assets/34.png)
+![flag image](https://github.com/0xh3b3/ctf-writeups/blob/main/nahamcon2025/assets/34.png)
 
 I added the file type prefix, scaled the image using magick convert tool
 ```convert 957D.png -resize 200% flag.png```
