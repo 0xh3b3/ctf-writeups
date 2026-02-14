@@ -33,10 +33,10 @@ A huge [Tak](https://howtosayguide.com/how-to-say-thank-you-in-danish) for all t
 
 ## Events
 
-- 👾 [TryHackMe](babytopia)
-- ⛏️ [PicoCTF](crypto)
-- 📦 [HackTheBox](web) 
-- 🌐 [Nahamcon-2025](osint) 
+- 👾 [TryHackMe](thm-challenges)
+- ⛏️ [PicoCTF](pico-ctf)
+- 📦 [HackTheBox](htb-challenges) 
+- 🌐 [Nahamcon-2025](nahamcon2025) 
 
 ## Comments 
 Jojo needs your help again. He received an emergency call from n00psy, a fellow inhabitant of N0PStopia, a cartoonish cyberworld.
