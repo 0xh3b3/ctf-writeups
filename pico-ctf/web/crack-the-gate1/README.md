@@ -9,13 +9,13 @@
 * Once we open the site you are met with a login form. we know the email from the description above but not the password.
 
 <p align="center">
-  <img src="src/crack-the-gate1-003.png" alt="Description" width="90%">
+  <img src="src/crack-the-gate1-003.png" alt="Description" width="100%">
 </p>
 
 * On inspecting the page, we see a comment that looks ROT13 incrypted,
 
 <p align="center">
-  <img src="src/crack-the-gate1-001.png" alt="Description" width="90%">
+  <img src="src/crack-the-gate1-001.png" alt="Description" width="100%">
 </p>
 
 Lets decrypt the string using ROT13 option in [CyberChef](https://cyberchef.io) or we can write a small bash script to do so for us
@@ -31,7 +31,7 @@ we get this
 - We notice that when we check the response we can see that we actually got a 200 status code meaning that it was succesfully, and the flag is also shown in the response, in the Network tab. NOTE: The results might not necessarily display on the browser
 
 <p align="center">
-  <img src="src/crack-the-gate1-005.png" alt="Description" width="90%">
+  <img src="src/crack-the-gate1-005.png" alt="Description" width="100%">
 </p>
 
 > FLAG: picoCTF{DECOY}
