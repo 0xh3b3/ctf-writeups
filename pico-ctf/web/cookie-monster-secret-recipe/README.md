@@ -10,21 +10,21 @@
 - The challenge was direct and it just required us to inspect the cookie and decode the flag
 
 <p align="center">
-<img src="src/cmsr001.png" alt="Description" width="90%">
+<img src="src/cmsr001.png" alt="Description" width="100%">
 </p>
 
 <p align="center">
-<img src="src/cmsr002.png" alt="Description" width="90%">
+<img src="src/cmsr002.png" alt="Description" width="100%">
 </p>
 
 <p align="center">
-<img src="src/cmsr003.png" alt="Description" width="90%">
+<img src="src/cmsr003.png" alt="Description" width="100%">
 </p>
 
 	cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzXzJDODA0MEVGfQ%3D%3D
 
 <p align="center">
-<img src="src/cmsr004.png" alt="Description" width="90%">
+<img src="src/cmsr004.png" alt="Description" width="100%">
 </p>
 
 >`FLAG: picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}`
