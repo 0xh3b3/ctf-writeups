@@ -110,31 +110,6 @@ I went to the page rules page and went through all the rules but the flag was no
 
 
 
-# $${\color{red}Read The Rules}$$
-
-
-- **Category:** Warmups
-- **Points:** 50
-- **Solves:** 1367
-
----
-
-## Challenge
-
-> Please follow the rules for this CTF!
-> 
-> ***Author:** John Hammond*
-
----
-
-## Solution
-Basics 101 of CTFs always view page source 
-
-I went to the page rules page and went through all the rules but the flag was not there, I viewed the page source and boom, I got the flag !!
-
-> Read The Rules: ```flag{90bc54705794a62015369fd8e86e557b}```
-
-
 
 # $${\color{red}Technical Support}$$
 

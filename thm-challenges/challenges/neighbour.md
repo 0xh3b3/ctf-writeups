@@ -31,7 +31,7 @@ nmap -sC -sV --open 10.48.161.146
 ![neighbour004.png](../assets/neighbour004.png)
 ![neighbour005.png](../assets/neighbour005.png)
 
-* Since we already know of the existance of the user admin, lets try and see if we can access the user `test` by changing the value to `admin`.
+* Since we already know of the existance of the user admin, lets try and see if we can access the user by changing the value from `guest`to `admin`.
 
 ![neighbour006.png](../assets/neighbour006.png)
 
