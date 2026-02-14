@@ -1,8 +1,8 @@
 <div align="center">
   <img src="assets/nopsctf.png" style="width: 50%">
-  <h1 style=>N0PSctf | 2025 Edition</h1>
+  <h1 style=>CYBER SECURITY | CTF WRITEUPS</h1>
   <p>
-     This repository encompasses the official write-ups and source code for the second edition of N0PSctf.
+     This repository encompasses write-ups and exploit scripts to my solved challenges.
   </p>
 
   <p>
@@ -15,7 +15,7 @@
 </div>
 
 
-## N0PSctf 2025
+## About
 
 The second edition of N0PSctf was hosted on **May 31st** and **June 1st**, **2025** attracting over **2,400** participants from around the globe. The competition spanned 36 intense hours, during which our participants enjoyed the journey between Cryptopia, PwnTopia and Webtopia and ended up saving our dear **n00psy** and the inhabitants of N0PSTopia.
 
@@ -31,19 +31,14 @@ A huge [Tak](https://howtosayguide.com/how-to-say-thank-you-in-danish) for all t
 </div>
 
 
-## Categories
+## Events
 
-- 🐣​ [Baby](babytopia)
-- 🔑 [Cryptography](crypto)
-- 🍪 [Web](web) 
-- 🕵️ [OSINT](osint) 
-- ⚙️ [Reverse engineering](rev) 
-- 🤓 [PWN](pwn) 
-- 👽 [Miscellaneous](misc) 
-- 💾 [Forensics](forensics) 
+- 👾 [TryHackMe](babytopia)
+- ⛏️ [PicoCTF](crypto)
+- 📦 [HackTheBox](web) 
+- 🌐 [Nahamcon-2025](osint) 
 
-
-## Storyline 
+## Comments 
 Jojo needs your help again. He received an emergency call from n00psy, a fellow inhabitant of N0PStopia, a cartoonish cyberworld.
 
 The three evil Lords of PwnTopia, CrypTopia, and WebTopia attacked N0PStopia and are now planning to extend their conquest. They MUST be stopped before it is too late!
@@ -51,7 +46,7 @@ The three evil Lords of PwnTopia, CrypTopia, and WebTopia attacked N0PStopia and
 As you saved him last year, Jojo immediately thought of you to answer the call. Will you be able to stop this threatening threat?
 
 
-## Our Team 
+## Affiliates 
 <div align="center">
   <img src="https://www.nops.re/static/assets/contributors.svg?v=9" style="width: 85%">
 </div>
