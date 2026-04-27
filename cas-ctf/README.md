@@ -4,7 +4,7 @@
 
 ### Reconnaisance
 
-- I started with mapping the network with nmap to identify the running services in the target IP, I first run a port identification scan `nmap -p- 10.241.20.31` which gave me two ports `http, 80` and `mysql, 3306`, I then used the ports to dig dip using the command `nmap -p80, 3306 10.241.20.31` with flag `-sC` for to run default scripts and `-sV` to detect service version
+- We started with mapping the network with nmap to identify the running services in the target IP, we first run a port identification scan `nmap -p- 10.241.20.31` which gave me two ports `http, 80` and `mysql, 3306`, I then used the ports to dig dip using the command `nmap -p80, 3306 10.241.20.31` with flag `-sC` for to run default scripts and `-sV` to detect service version
 
 <img src="src/img-01.png" alt="Description" width="50%">
 
@@ -13,7 +13,7 @@
 
 <img src="src/img-02.png" alt="Description" width="50%">
 
-Decoding it from base64 gave the flag 
+- Decoding it from base64 gave the flag 
 
 <img src="src/img-03.png" alt="Description" width="100%">
 
