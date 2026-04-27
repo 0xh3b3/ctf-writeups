@@ -15,7 +15,7 @@
 
 - Decoding it from base64 gave the flag 
 
-<img src="src/img-03.png" alt="Description" width="100%">
+<img src="src/img-03.png" alt="Description" width="50%">
 
 > FLAG `Netherlands Flag: b25f73502b862ece2ca4c39bfe4a573dbase64`
 
